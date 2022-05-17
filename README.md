@@ -1,5 +1,7 @@
 # DSA
-My solutions to various coding problems I've solved on websites like LeetCode, CODECHEF etc..
+My solutions to various coding problems I've solved on platforms like LeetCode, CODECHEF etc..
+
+Beginnning of the repository is on 16th May, 2022
 
 Solutions in this repo are neither the fastest nor are they the most efficient.
 
