@@ -1,6 +1,6 @@
 # Project LEADS
 
-__**LEADS**__ stands for __**L**__earn and __**E**__xplore __**A**__lgorithms and __**D**__ata __**S**__tructures
+_**LEADS**_ stands for _**L**_earn and _**E**_xplore _**A**_lgorithms and _**D**_ata _**S**_tructures
 
 ## About
 
