@@ -1,11 +1,12 @@
 # Project LEADS
 
-**L**earn and **E**xplore **A**lgorithms and **D**ata **S**tructures
-My solutions to various coding problems I've solved on platforms like LeetCode, CODECHEF etc..
+__**LEADS**__ stands for __**L**__earn and __**E**__xplore __**A**__lgorithms and __**D**__ata __**S**__tructures
 
 ## About
 
-Initiated on 16th May, 2022, the aim of project LEADS is learn, practice and explore the applications of Data Structes and Algorithms
+Initiated on 16th May, 2022, the aim of project LEADS is to learn, practice and explore theoretical knowledge and practical skills in the concepts of Algorithms and Data Structures.\
+This [repo](https://github.com/bibushan/project-LEADS) contains my solutions to various coding problems I've solved on platforms like LeetCode, CODECHEF etc..\
+The solutions are written in Java, C++ and Python.
 
 ## Author
 
