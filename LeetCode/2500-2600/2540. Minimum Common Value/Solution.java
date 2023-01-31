@@ -1,4 +1,6 @@
 // Two Pointers method
+// TC: O(n + m)
+// SC: O(1)
 
 class Solution {
     public int getCommon(int[] nums1, int[] nums2) {
